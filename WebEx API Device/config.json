@@ -1,0 +1,17 @@
+{
+  "webex_token": "",
+
+  "smtp": {
+    "server": "smtp.office365.com",
+    "port": 587,
+    "sender_email": "",
+    
+    "recipient_email": ""
+  },
+
+  "thresholds": {
+    "failed_call_percentage": 20,
+    "jitter_ms": 30,
+    "packet_loss_percent": 3
+  }
+}
